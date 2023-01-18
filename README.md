@@ -9,11 +9,11 @@
     <img src="images/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Point of Sale</h3>
+<h1 align="center">Point of Sale</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
-# About The Project
+## About The Project
 
 Point of Sale Web Application. Project manager and front-end developer.
 ### Features
