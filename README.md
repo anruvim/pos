@@ -48,6 +48,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 [React-url]: https://reactjs.org/
 [Chakra.js]: https://img.shields.io/badge/Chakra%20UI-20232A?style=for-the-badge&logo=chakraui
 [CHakra-url]: https://chakra-ui.com/
-[Flask.js]: https://img.shields.io/badge/flask%20REST%20API-20232A?style=for-the-badge&logo=Flask
+[Flask.js]: https://img.shields.io/badge/flask%20REST%20API-20232A?style=for-the-badge&logo=flask
 [Flask-url]: https://flask.palletsprojects.com/
 
