@@ -50,7 +50,7 @@ Point of Sale Web Application. Project manager and front-end developer.
 [product-screenshot2]: images/Admin2.png
 [product-screenshot3]: images/Cashier1.png
 [product-screenshot4]: images/Cashier2.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
