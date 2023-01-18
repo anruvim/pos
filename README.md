@@ -15,8 +15,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Point of Sale Web Application
+### Features
+* Product management
+* Staff user Management
+* Sales View
+* Prepaid user management
+* Coupon system for prepaid user
+* Cashier PoS
+* Self Service PoS
 
 
 ### Frontend is Built With
