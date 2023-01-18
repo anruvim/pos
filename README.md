@@ -13,7 +13,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 Point of Sale Web Application. Project manager and front-end developer.
 ### Features
