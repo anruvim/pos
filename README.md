@@ -19,11 +19,12 @@
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 
-### Built With
-
+### Frontend is Built With
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![React][Chakra.js]][Chakra-url]
+### Backend is Built With
+* [![Flask][Flask.js]][Flask-url]
 
 <!-- ABOUT THE PROJECT -->
 ## Project Screen Shots
@@ -47,4 +48,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 [React-url]: https://reactjs.org/
 [Chakra.js]: https://img.shields.io/badge/Chakra%20UI-20232A?style=for-the-badge&logo=chakraui
 [CHakra-url]: https://chakra-ui.com/
+[Flask.js]: https://img.shields.io/badge/Flask%20UI-20232A?style=for-the-badge&logo=Flask
+[Flask-url]: https://flask.palletsprojects.com/
 
