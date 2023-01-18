@@ -42,9 +42,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 [product-screenshot2]: images/Admin2.png
 [product-screenshot3]: images/Cashier1.png
 [product-screenshot4]: images/Cashier2.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react
 [React-url]: https://reactjs.org/
 [Chakra.js]: https://img.shields.io/badge/Chakra%20UI-20232A?style=for-the-badge&logo=chakraui
 [CHakra-url]: https://chakra-ui.com/
