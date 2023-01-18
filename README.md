@@ -25,6 +25,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![React][Chakra]][Chakra-url]
 ### Backend is Built With
 * [![Flask][Flask]][Flask-url]
+* [![Flask][Postgre]][Postgre-url]
 
 <!-- ABOUT THE PROJECT -->
 ## Project Screen Shots
