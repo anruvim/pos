@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Point of Sale Web Application
+Point of Sale Web Application. Project manager and front-end developer.
 ### Features
 * Product management
 * Staff user Management
