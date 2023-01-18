@@ -24,7 +24,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![React][React.js]][React-url]
 * [![React][Chakra.js]][Chakra-url]
 ### Backend is Built With
-* [![Flask][Flask.js]][Flask-url]
+* [![Flask][Flask]][Flask-url]
 
 <!-- ABOUT THE PROJECT -->
 ## Project Screen Shots
@@ -48,6 +48,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 [React-url]: https://reactjs.org/
 [Chakra.js]: https://img.shields.io/badge/Chakra%20UI-20232A?style=for-the-badge&logo=chakraui
 [CHakra-url]: https://chakra-ui.com/
-[Flask.js]: https://img.shields.io/badge/Flask%20UI-20232A?style=for-the-badge&logo=Flask
+[Flask.js]: https://img.shields.io/badge/flask%20REST%20API-20232A?style=for-the-badge&logo=Flask
 [Flask-url]: https://flask.palletsprojects.com/
 
