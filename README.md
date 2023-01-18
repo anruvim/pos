@@ -22,9 +22,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Frontend is Built With
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![React][Chakra.js]][Chakra-url]
+* [![React][Chakra]][Chakra-url]
 ### Backend is Built With
-* [![Flask][Flask.js]][Flask-url]
+* [![Flask][Flask]][Flask-url]
 
 <!-- ABOUT THE PROJECT -->
 ## Project Screen Shots
@@ -42,12 +42,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 [product-screenshot2]: images/Admin2.png
 [product-screenshot3]: images/Cashier1.png
 [product-screenshot4]: images/Cashier2.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
-[Chakra.js]: https://img.shields.io/badge/Chakra%20UI-20232A?style=for-the-badge&logo=chakraui
+[Chakra]: https://img.shields.io/badge/Chakra%20UI-20232A?style=for-the-badge&logo=chakraui&logoColor=white
 [CHakra-url]: https://chakra-ui.com/
-[Flask.js]: https://img.shields.io/badge/flask%20REST%20API-20232A?style=for-the-badge&logo=flask
+[Flask]: https://img.shields.io/badge/flask%20REST%20API-20232A?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/
+[Postgre]: https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=white
+[Postgre-url]: https://www.postgresql.org/
 
